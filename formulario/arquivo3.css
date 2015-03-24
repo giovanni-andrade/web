@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>web</title>	
+		<link rel="stylesheet" type="text/css" href="inicio.css" media="print">
+	</head>
+	<body>
+		
+	</body>
+</html
+---------------------------------------------
+body{
+	background-color: blue;
+	background-image: url("fundo.png");
+	background-repeat: repeat-x;
+	background-position: right top;
+	background: blue url("fundo.png") repeat-x right top;
+}
